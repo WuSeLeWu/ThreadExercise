@@ -1,0 +1,15 @@
+D:\Masaüstü\ThreadExercise\ThreadExercise\bin\Debug\net6.0\ThreadExercise.exe
+D:\Masaüstü\ThreadExercise\ThreadExercise\bin\Debug\net6.0\ThreadExercise.deps.json
+D:\Masaüstü\ThreadExercise\ThreadExercise\bin\Debug\net6.0\ThreadExercise.runtimeconfig.json
+D:\Masaüstü\ThreadExercise\ThreadExercise\bin\Debug\net6.0\ThreadExercise.dll
+D:\Masaüstü\ThreadExercise\ThreadExercise\bin\Debug\net6.0\ThreadExercise.pdb
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.csproj.AssemblyReference.cache
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.AssemblyInfoInputs.cache
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.AssemblyInfo.cs
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.csproj.CoreCompileInputs.cache
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.dll
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\refint\ThreadExercise.dll
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.pdb
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ThreadExercise.genruntimeconfig.cache
+D:\Masaüstü\ThreadExercise\ThreadExercise\obj\Debug\net6.0\ref\ThreadExercise.dll
